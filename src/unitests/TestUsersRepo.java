@@ -7,6 +7,8 @@ import java.sql.SQLException;
 
 public class TestUsersRepo {
 
+    // unit test for UserRepo
+
     public static void main(String[] args) throws SQLException {
 //        testChangeUser();
         testFindUser();
